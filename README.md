@@ -45,3 +45,5 @@ For support, bug reports, or feature requests, please open an issue on this repo
 ## Privacy
 
 Speed Read Test does not collect any personal data. All reading history is stored locally on your device.
+
+[View full Privacy Policy](PRIVACY.md)
